@@ -1,0 +1,12 @@
+{
+  "Licencias": [
+    {
+      "nombre": "login",
+      "server_ip": "123.456.789.101"
+    },
+    {
+      "nombre": "anticheat",
+      "server_ip": "189.202.55.77"
+    }
+  ]
+}
